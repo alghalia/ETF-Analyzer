@@ -39,11 +39,22 @@ Install JupterLabs
 pip install jupyter
 
 
-
 Usage
 
 This project is an app that pulls data from a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF.
+I Analyzed the daily returns of the ETF stocks both individually and as a whole. Then deployed the visualizations to a web application by using the Voilà library.
 
+The detailed instructions are divided into the following parts:
+
+Analyzing a single asset in the ETF
+
+Optimize data access with Advanced SQL queries
+
+Analyzing the ETF portfolio
+
+Deploying the notebook as a web application
+
+I used the Voilà library to deploy the notebook as a web application.
 
 ---
 ## Contributors

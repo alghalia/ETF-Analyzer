@@ -1,4 +1,4 @@
-About The Project
+***About The Project***
 
 This project is an app that pulls data from a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF.
 
@@ -21,13 +21,17 @@ I used the Voilà library to deploy the notebook as a web application.
 ![Screenshot](https://github.com/alghalia/Challenge_7/blob/main/images/Voila%CC%80%20jpeg.jpeg)
 
 
-Built With
-Python
-Python CSV Reading/Writing
-Python pandas
-Python hvplot.pandas
-Python conda
-Python JupyterLab
+
+
+
+
+**Built With**
+- Python
+- Python CSV Reading/Writing
+- Python pandas
+- Python hvplot.pandas
+- Python conda
+- Python JupyterLab
 
 
 ### Installation Guide
